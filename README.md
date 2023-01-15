@@ -44,4 +44,4 @@ Architecture diagram
 ![architecture diagran](./docs/arch_1.png)
 
 ### Time contraint
-Due to time constraint, there are few more features not implemented properly, such as email template, role based authorization.
+Due to time constraint, there are few more features not implemented properly, such as email template, role based authorization as well as the structure.
